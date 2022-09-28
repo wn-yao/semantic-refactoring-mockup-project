@@ -16,7 +16,7 @@ Added alternate description to all the image tags if images fail to load whent o
 
 Using id attribute in the content section which removed the redudant corresponding class attribute in style.css.
 
-Removed the class attribute within article tags in benefits section. Edit the style.css to combine h2 properties. 
+Commented out the codes that are not needed in style.css instead of removing them.   
 
 
 ## Credits
