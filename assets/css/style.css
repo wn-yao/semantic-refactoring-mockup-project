@@ -225,6 +225,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Changed to h4 from h2 so the headings are in sequential order */
+
+.footer h4 {
     font-size: 20px;
 }
