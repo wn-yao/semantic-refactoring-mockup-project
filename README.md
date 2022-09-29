@@ -18,6 +18,8 @@ Using id attribute in the content section which removed the redudant correspondi
 
 Commented out the codes that are not needed in style.css instead of removing them.   
 
+Edited heading so they are in sequential order. 
+
 
 ## Credits
 
