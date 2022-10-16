@@ -36,6 +36,16 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 Please refer to MIT License. 
 
+## Deployed application and Screenshot
+
+Deployed Application Screenshot
+
+![Screenshot](https://github.com/wn-yao/semantic-refactoring-mockup-project/blob/main/assets/images/Screenshot.jpg)
+
+Deployed Webpage
+
+https://wn-yao.github.io/semantic-refactoring-mockup-project/
+
 
 
 
